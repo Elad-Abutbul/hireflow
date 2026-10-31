@@ -1,0 +1,9 @@
+{
+  "name": "hireflow",
+  "private": true,
+  "packageManager": "pnpm@11.9.0",
+  "engines": {
+    "node": ">=24.18.0 <25",
+    "pnpm": "11.9.0"
+  }
+}
